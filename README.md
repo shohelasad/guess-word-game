@@ -1,8 +1,10 @@
 #Getting Started
+
 Guess the word game 
 
 
 #DEV TOOLS
+
 Java 11
 Spring Boot 2.7.3
 JUnit 5
@@ -10,12 +12,14 @@ Maven
 
 
 #How To RUN
+
 mvn spring-boot:run
 
 
 
 
 ### Reference Documentation
+
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
