@@ -1,9 +1,9 @@
-#Getting Started
+# Getting Started
 
 Guess the word game 
 
 
-#DEV TOOLS
+# DEV TOOLS
 
 Java 11
 Spring Boot 2.7.3
@@ -11,7 +11,7 @@ JUnit 5
 Maven
 
 
-#How To RUN
+# How To RUN
 
 mvn spring-boot:run
 
