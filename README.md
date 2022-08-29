@@ -6,8 +6,11 @@ Guess the word game
 # DEV TOOLS
 
 Java 11
+
 Spring Boot 2.7.3
+
 JUnit 5
+
 Maven
 
 
